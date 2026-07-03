@@ -1,11 +1,11 @@
-2026-07-03 15:08:53,405 | INFO | Pipeline Started
-2026-07-03 15:08:53,976 | INFO | Datasets Loaded Successfully
-2026-07-03 15:08:53,991 | INFO | Validation Completed
-2026-07-03 15:08:54,054 | INFO | Customer Data Cleaned
-2026-07-03 15:08:54,085 | INFO | Feature Engineering Completed
-2026-07-03 15:08:54,106 | INFO | Datasets Merged
-2026-07-03 15:08:54,114 | INFO | Statistics Generated
-2026-07-03 15:08:54,122 | INFO | Customer Segmentation Completed
-2026-07-03 15:08:54,397 | INFO | Stored in MySQL
-2026-07-03 15:08:54,455 | INFO | Datasets Exported
-2026-07-03 15:08:54,455 | INFO | Pipeline Completed Successfully
+2026-07-03 16:25:00,576 | INFO | Pipeline Started
+2026-07-03 16:25:01,361 | INFO | Datasets Loaded Successfully
+2026-07-03 16:25:01,375 | INFO | Validation Completed
+2026-07-03 16:25:01,397 | INFO | Customer Data Cleaned
+2026-07-03 16:25:01,418 | INFO | Feature Engineering Completed
+2026-07-03 16:25:01,444 | INFO | Datasets Merged
+2026-07-03 16:25:01,455 | INFO | Statistics Generated
+2026-07-03 16:25:01,467 | INFO | Customer Segmentation Completed
+2026-07-03 16:25:01,609 | INFO | Stored in MySQL
+2026-07-03 16:25:01,652 | INFO | Datasets Exported
+2026-07-03 16:25:01,653 | INFO | Pipeline Completed Successfully
